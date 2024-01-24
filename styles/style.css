@@ -145,6 +145,9 @@ body{
         width: 100%;
         
     }
+    .container-imagem{
+        width: 100%;
+    }
     .rodape{
         margin: 4rem 0 0;
     }
