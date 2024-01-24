@@ -128,11 +128,14 @@ body{
     .container-conteudo{
         width: auto;
     }
-    .container-conteudo-titulo{
+      .container-conteudo-titulo{
         
-        
+        font-size: 2rem;
         justify-content: center;
         
+    }
+    .container-conteudo-botao-subtitulo{
+        font-size: 1rem;
     }
     .container-conteudo-botao-link{
         width: 70%;
