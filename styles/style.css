@@ -130,13 +130,17 @@ body{
     }
       .container-conteudo-titulo{
         
-        font-size: 1rem;
+        font-size: 1.5rem;
         justify-content: center;
         
     }
     .container-conteudo-texto{
-        font-size: 0.5rem;
+        font-size: 1rem;
     }
+    .container-conteudo-botao-subtitulo{
+        font-size: 1rem;
+    }
+    
     .container-conteudo-botao-link{
         width: 70%;
         
